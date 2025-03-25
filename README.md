@@ -68,7 +68,7 @@ Following is the block diagram and workflow in simple terms of our CPU:-
 
 - [Aditya Mahajan](https://github.com/aditya200523)
 - [Shri Vishakh Devanand](https://github.com/LOuLOu-THEKing)
-- [Shaurya Rane]
+- [Shaurya Rane](https://github.com/shauryarane05)
 
 --- 
 ## Mentors 
