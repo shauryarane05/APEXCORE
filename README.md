@@ -80,5 +80,5 @@ Following is the block diagram and workflow in simple terms of our CPU:-
 ### Acknowledgements and Resources
 
 - [SRA VJTI Eklavya 2024](https://sravjti.in/)
-  
+- [VERIFY I WORKED ON THIS PROJECT THIS IS THE REPO WE WORKED ON](https://github.com/aditya200523/ApexCore)
 ---
